@@ -22,7 +22,7 @@ This Power BI dashboard provides an in-depth analysis of music album sales acros
 - DAX Calculations
 
 ## Screenshot
-![Dashboard Screenshot](Screenshot%20(29).jpeg)
+![Dashboard Screenshot]( Music Album Sales Dashboard.jpeg)
 
 ## Instructions
 1. Download the `.pbix` file from the repository.
